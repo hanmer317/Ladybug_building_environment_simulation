@@ -1,2 +1,0 @@
-# archi-opts
-Architecture optimization
